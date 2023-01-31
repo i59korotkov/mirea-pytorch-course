@@ -1,0 +1,2 @@
+Репозиторий проекта - https://github.com/i59korotkov/rnn_music_generation
+Демонстрация проекта - https://youtu.be/T2NBO3at4KM
